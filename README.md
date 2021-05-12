@@ -11,6 +11,7 @@
        <p>✔ Data Binding</p>
 <p>2. Splash Screen </p>    
 <p>3. Lottie Animation files <br> ✔(implementation ('com.airbnb.android:lottie:3.0.1') { transitive = false })</p>
+<p>4. Recycler View </p>
 
 <strong>How To Use</strong>
 <p>⁕ At first when user taps the app splash screen is visible for 2 sec</p>
