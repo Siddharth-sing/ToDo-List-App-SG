@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="button">Button</string>
+    <string name="add_title"> Add Title</string>
+    <string name="add_date"> Add date</string>
+    <string name="add">Add</string>
+    <string name="add_note">Add Task</string>
+</resources>
